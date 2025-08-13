@@ -1,0 +1,7 @@
+[package]
+name = "secureflow"
+version = "0.0.1"
+edition = "2021"
+
+[dependencies]
+secureflow-core = { path = "../secureflow-core" }
